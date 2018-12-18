@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mad Libs</string>
+    <string name="app_info">Welcome to mad Libs \! You will be asked  to fill in words to
+        complete a story. You wont see the whole story until
+        you are done filling in all the missing words. That\'s part of the fun.
+        Click below to get started . . .
+            </string>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+
+</resources>

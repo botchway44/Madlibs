@@ -1,0 +1,5 @@
+<test> i am the tester
+"Mad Libs" are short stories that have blanks called placeholders to be filled in.
+In the non-computerized version of this game, one person asks a second person to fill in each of the placeholders without the second person knowing the overall story.
+Once all placeholders are filled in, the second person is shown the resulting silly story.
+Write an Android app that reads in a Mad Lib from a text file in a specific format.
